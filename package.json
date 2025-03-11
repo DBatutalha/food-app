@@ -1,5 +1,8 @@
 {
   "dependencies": {
     "fractional": "^1.0.0"
+  },
+  "devDependencies": {
+    "parcel-bundler": "^1.12.5"
   }
 }
